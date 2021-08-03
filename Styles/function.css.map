@@ -1,7 +1,9 @@
 {
-"version": 3,
-"mappings": "AAUA,IAAI;EACA,gBAAgB,EAVP,OAAO;EAWhB,KAAK,EAVM,OAAO;EAYlB,UAAK;IACD,KAAK,EAZD,GAAG",
-"sources": ["function.scss"],
-"names": [],
-"file": "function.css"
+    "version": 3,
+    "mappings": "AAUA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAVP,OAAO;EAWhB,KAAK,EAVM,OAAO;CAerB;;AAPD,AAII,IAJA,CAIA,KAAK,CAAA;EACD,KAAK,EAZD,GAAG;CAaV",
+    "sources": [
+        "function.scss"
+    ],
+    "names": [],
+    "file": "function.css"
 }

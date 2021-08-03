@@ -2,11 +2,13 @@ body main p {
   border: 2px dotted red;
   border-radius: 20px;
   padding: 10px;
-  background-color: bisque; }
+  background-color: bisque;
+}
+
 body footer {
   border: 2px dotted red;
   border-radius: 5px;
   padding: 10px;
-  background-color: brown; }
-
+  background-color: brown;
+}
 /*# sourceMappingURL=mixins.css.map */
