@@ -11,10 +11,10 @@ body nav {
 }
 
 body nav .home {
-  background-color: azure;
+  background-color: #eff313;
 }
 
-body nav .services {
+body nav .Services {
   background-color: brown;
 }
 
