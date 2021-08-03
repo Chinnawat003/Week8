@@ -1,0 +1,20 @@
+@mixin red-velvet-border($borser-radius: 20px) {
+    border: 2px dotted red;
+    border-radius: $borser-radius;
+    padding: 10px;
+
+}
+
+body {
+    main {
+        p{
+            @include red-velvet-border ;
+            background-color: bisque;
+        }
+    }
+
+    footer {
+        @include red-velvet-border(5px);
+        background-color: brown;
+    }
+}
